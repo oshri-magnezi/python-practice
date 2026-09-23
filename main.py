@@ -8,7 +8,7 @@ class Rectangle:
         return self.width * self.height
 
 rect = Rectangle(4, 5)
-print(rect.surface())  # area result from main branch
+print(rect.surface())  # area result
 
 
 def second_largest(nums: list[int]) -> int:
